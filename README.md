@@ -30,8 +30,10 @@ Steve wants to help his parents in their investment plans in green energy. They 
 -The refactored script improved the execution time and allowed us to perform the same task within a shorter time frame. 
 -The images below delineate the improvement in the execution time.
 
-/Users/ayseozgun/Desktop/BOOTCAMP/Course_work/Analysis_Projects/stock-analysis/Resources/VBA_Challenge_2017.png
-/Users/ayseozgun/Desktop/BOOTCAMP/Course_work/Analysis_Projects/stock-analysis/Resources/VBA_Challenge_2018.png
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/81400525/117375342-66eaf880-ae94-11eb-84c7-ac628571453b.png)
+
+
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/81400525/117375346-694d5280-ae94-11eb-9012-c7e0f4426bd9.png)
 
 -The original script ran the 2017 data in 1.0391 seconds, while the refactored script ran it in 0.1758 seconds.
 -Similarly, the original script ran the 2018 data in 1.0586 seconds, while the refactored script ran it in 0.1680 seconds.
