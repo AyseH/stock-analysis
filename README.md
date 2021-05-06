@@ -60,11 +60,3 @@ Steve wants to help his parents in their investment plans in green energy. They 
 -This could be an important advantage if the code is used in large datasets. 
 -On the other hand, for this particular dataset which is not very big, the time and effort spent refactoring the code outweighs the benefits.
 
-
-
-
-
-
-
-
-
