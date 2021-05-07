@@ -47,12 +47,12 @@ Steve wants to help his parents in their investment plans in green energy. They 
 
 * Refactoring a code makes it cleaner and more simple. Therefore, it increases the efficiency and improves system performance.
 * It reduces technical debt by saving on costs, efforts and time needed to detect bugs and problems.
-* Refactoring can also be useful in improving and updating existing products to meet customer demands and needs[ozgun](https://langate.com/code-refactoring).
+* Refactoring can also be useful in improving and updating existing products to meet customer demands and needs [(Kovalenko, 2020)](https://langate.com/code-refactoring).
 
 #### Disadvantages
 
 * It can be too expensive both in terms of money and time.
-* If required changes are of a too large scale, then instead of refactoring building a new software should be considered (https://langate.com/code-refactoring).
+* If required changes are of a too large scale, then instead of refactoring building a new software should be considered [(Kovalenko, 2020)](https://langate.com/code-refactoring).
 
 ### The Advantages and Disadvantages of the Refactored Green Stocks Analysis Code
 
